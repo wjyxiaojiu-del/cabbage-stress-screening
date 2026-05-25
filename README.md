@@ -1,5 +1,3 @@
-> **中文** | [English](README_en.md)
-
 # 舟山海岛小白菜抗逆品种筛选 🥬
 
 > **Zhejiang Zhoushan Island — Chinese Cabbage Stress-Resistant Variety Screening**  
